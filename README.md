@@ -11,3 +11,22 @@ npm, npx poder instalar las dependecias en la terminal, con node.
 ## devDependecies (dependecias de Dev)
 
 nodemon, tree-cli
+
+## Inicializar el proyecto con express
+
+npm init -y
+
+# Estructura del Proyecto
+Estructura del proyecto manejando las buenas practicas para el desarrollo de aplicaciones mobiles.
+
+## estructura
+--controllers
+--middleares
+--models
+--routes
+--uploads
+--utils
+app.js
+constants.js
+index.js
+
