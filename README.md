@@ -17,9 +17,11 @@ nodemon, tree-cli
 npm init -y
 
 # Estructura del Proyecto
+
 Estructura del proyecto manejando las buenas practicas para el desarrollo de aplicaciones mobiles.
 
 ## estructura
+
 --controllers
 --middleares
 --models
@@ -30,3 +32,6 @@ app.js
 constants.js
 index.js
 
+## para inicar el proyecto en produccion
+
+npm install
